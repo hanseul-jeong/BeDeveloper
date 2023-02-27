@@ -1,6 +1,7 @@
 #include "cal.h"
 #include "math2.h"
 
+
 // 1) 사용되는 파일들 빌드
 // $ g++ -fPIC -c math2.cpp math.cpp
 // 2) 공유 라이브러리 (.so) 생성
